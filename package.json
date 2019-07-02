@@ -2,6 +2,10 @@
   "name": "cargografias-transformer",
   "version": "1.0.0",
   "description": "Transformadora de los datos de Cargografias al estándar Popolo en JSON",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab.rindecuentas.org:2203/equipo-qqw/cargografias-transformer.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
